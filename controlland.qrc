@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>controlland.ico</file>
+        <file>images/circle.png</file>
+    </qresource>
+</RCC>
